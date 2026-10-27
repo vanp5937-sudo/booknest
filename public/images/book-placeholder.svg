@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" viewBox="0 0 480 640">
+<rect width="480" height="640" rx="20" fill="#f8f2ee"/>
+<rect x="32" y="32" width="416" height="576" rx="14" fill="#fffaf7" stroke="#e7d6cf" stroke-width="3"/>
+<path d="M155 210 Q240 170 325 210 L325 410 Q240 370 155 410 Z" fill="#6f263d"/>
+<path d="M240 195 L240 390" stroke="#f3d9b2" stroke-width="5"/>
+<path d="M175 245 Q210 230 225 245 M255 245 Q290 230 305 245 M175 275 Q210 260 225 275 M255 275 Q290 260 305 275" stroke="#f3d9b2" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="240" y="465" font-family="Arial,sans-serif" font-size="36" font-weight="700" text-anchor="middle" fill="#6f263d">BookNest</text>
+<text x="240" y="505" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#8b6f77">Góc nhỏ của người mê sách</text>
+</svg>
